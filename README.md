@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://www.youtube.com/watch?v=zPMa58rsC-Y&list=RDzPMa58rsC-Y&start_radio=1">
-    <img src="https://github.com/qQaQt/qQaQt/blob/main/assets/1f714a0aadc93d6a7159d44d8cb11567.gif" alt="Header gif" width="800"/>
+    <img src="https://github.com/qQaQt/qQaQt/blob/main/assets/1f714a0aadc93d6a7159d44d8cb11567.gif" 
+         alt="Header gif" 
+         width="600"/>
   </a>
 </p>
 
