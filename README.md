@@ -1,4 +1,4 @@
-[![header](https://github.com/qQaQt/qQaQt/blob/main/assets/1823873a736691f3ba94029091e0833c.gif)](https://www.youtube.com/watch?v=zPMa58rsC-Y&list=RDzPMa58rsC-Y&start_radio=1)
+[![header](https://github.com/qQaQt/qQaQt/blob/main/assets/1f714a0aadc93d6a7159d44d8cb11567.gif)](https://www.youtube.com/watch?v=zPMa58rsC-Y&list=RDzPMa58rsC-Y&start_radio=1)
 
 # 👋 Hello, I'm Artem Shkarban!
 
