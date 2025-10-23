@@ -1,6 +1,6 @@
 [![header](https://github.com/qQaQt/qQaQt/blob/main/assets/shuffle-dance-shuffle.gif)](https://www.youtube.com/watch?v=zPMa58rsC-Y&list=RDzPMa58rsC-Y&start_radio=1)
 
-# 👋 Привет, я Анна!
+# 👋 Hello, I'm Artem Shkarban!
 
 💻 Frontend-разработчик из Москвы  
 🌱 Изучаю React, TypeScript и UI/UX  
